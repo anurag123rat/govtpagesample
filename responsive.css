@@ -1,0 +1,77 @@
+@media (max-width: 768px) {
+
+
+  .ul_ashokstambh_top ul
+  {
+    flex-direction: column;
+  }
+  .ul_ashokstambh_top li
+  {
+    border: unset;
+  }
+  .mode_change input[type="checkbox"]
+  {
+    width: 30px;
+    height: 15px;
+  }
+  .mode_change input[type="checkbox"]::before
+  {
+    width: 15px;
+    height: 15px;
+  }
+  .s_tag_topstyle a
+  {
+    white-space: nowrap;
+  }
+  .st_orolie-leaderimgs_headtxtj h3
+  {
+    text-align: center;
+  }
+  .st_orolie-leaderimgs_headtxtj
+  {
+    float: none;
+  }
+  .jtop_three_ldrs_imageprofile
+  {
+    margin: 10px auto;
+  }
+  .abt_us_listgs
+  {
+    padding-left: 0px;
+    flex-wrap: wrap !important;
+  }
+  .lstl_box
+  {
+    margin: 5px;
+  }
+  .progress-container::before
+  {
+    left: 57px;
+    width: 66%;
+  }
+  .text-wrap.active p
+  {
+    font-size: 10px;
+  }
+
+  .innr-footer
+  {
+    margin-top: 35px;
+  }
+  .padd-section-comm
+  {
+    padding: 35px 0px;
+  }
+  .jgo_inrtxt
+  {
+    margin-top: 12px;
+  }
+  .jgo_inrtxt h2
+  {
+    text-align: center;
+  }
+  .faq_head h3 {
+    text-align: center;
+   }
+
+  }
